@@ -1,0 +1,26 @@
+{
+  "name": "10-team-player",
+  "version": "1.0.0",
+  "description": "## To create a team profile generator with OOP",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "node": "^16.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffywk/10-team-player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffywk/10-team-player/issues"
+  },
+  "homepage": "https://github.com/jeffywk/10-team-player#readme"
+}
